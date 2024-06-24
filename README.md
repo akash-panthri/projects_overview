@@ -15,3 +15,9 @@ https://github.com/akash-panthri/projects_overview/assets/150880382/652a57fb-dff
 
 
 <a href="https://github.com/akash-panthri/animated_navigation" >Visit Repo</a>
+
+
+https://github.com/akash-panthri/projects_overview/assets/150880382/0a871bc5-5e32-4b05-b1d4-5ec2450865b0
+
+
+<a href="https://github.com/akash-panthri/auto_text_effect" >Visit Repo</a>
