@@ -21,3 +21,10 @@ https://github.com/akash-panthri/projects_overview/assets/150880382/0a871bc5-5e3
 
 
 <a href="https://github.com/akash-panthri/auto_text_effect" >Visit Repo</a>
+
+
+
+
+https://github.com/akash-panthri/projects_overview/assets/150880382/882b9dd3-099d-434d-9541-e5615044e163
+
+<a href="https://github.com/akash-panthri/3d_boxes" >Visit Repo</a>
