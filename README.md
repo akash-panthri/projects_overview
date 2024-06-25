@@ -28,3 +28,8 @@ https://github.com/akash-panthri/projects_overview/assets/150880382/0a871bc5-5e3
 https://github.com/akash-panthri/projects_overview/assets/150880382/882b9dd3-099d-434d-9541-e5615044e163
 
 <a href="https://github.com/akash-panthri/3d_boxes" >Visit Repo</a>
+
+
+https://github.com/akash-panthri/projects_overview/assets/150880382/fa5dc81e-e2f0-46f6-841d-6772b4fc73ec
+
+<a href="https://github.com/akash-panthri/3d_wavy_circle" >Visit Repo</a>
