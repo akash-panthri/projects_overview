@@ -33,3 +33,9 @@ https://github.com/akash-panthri/projects_overview/assets/150880382/882b9dd3-099
 https://github.com/akash-panthri/projects_overview/assets/150880382/fa5dc81e-e2f0-46f6-841d-6772b4fc73ec
 
 <a href="https://github.com/akash-panthri/3d_wavy_circle" >Visit Repo</a>
+
+
+https://github.com/akash-panthri/projects_overview/assets/150880382/9e7d96d3-05c8-4170-8f65-777a66b17f04
+
+
+<a href="https://github.com/akash-panthri/anagram" >Visit Repo</a>
