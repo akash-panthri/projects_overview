@@ -51,3 +51,9 @@ https://github.com/akash-panthri/projects_overview/assets/150880382/c699271c-1eb
 
 
 <a href="https://github.com/akash-panthri/better_checkboxes" >Visit Repo</a>
+
+
+https://github.com/akash-panthri/projects_overview/assets/150880382/103a9202-6262-40e0-9d44-c401766b16bf
+
+
+<a href="https://github.com/akash-panthri/blurry_loading" >Visit Repo</a>
