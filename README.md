@@ -45,3 +45,9 @@ https://github.com/akash-panthri/projects_overview/assets/150880382/fb76ff9f-436
 
 
 <a href="https://github.com/akash-panthri/background_slider" >Visit Repo</a>
+
+
+https://github.com/akash-panthri/projects_overview/assets/150880382/c699271c-1eb7-4b5d-bd3d-d549feee5fb6
+
+
+<a href="https://github.com/akash-panthri/better_checkboxes" >Visit Repo</a>
