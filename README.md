@@ -39,3 +39,9 @@ https://github.com/akash-panthri/projects_overview/assets/150880382/9e7d96d3-05c
 
 
 <a href="https://github.com/akash-panthri/anagram" >Visit Repo</a>
+
+
+https://github.com/akash-panthri/projects_overview/assets/150880382/fb76ff9f-436d-4989-9794-173f68fcd158
+
+
+<a href="https://github.com/akash-panthri/background_slider" >Visit Repo</a>
