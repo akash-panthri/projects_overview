@@ -57,3 +57,9 @@ https://github.com/akash-panthri/projects_overview/assets/150880382/103a9202-626
 
 
 <a href="https://github.com/akash-panthri/blurry_loading" >Visit Repo</a>
+
+
+https://github.com/akash-panthri/projects_overview/assets/150880382/827d1b54-6b4d-477d-b9e8-6733aa3db5fe
+
+
+<a href="https://github.com/akash-panthri/button_ripple_effect" >Visit Repo</a>
