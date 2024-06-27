@@ -63,3 +63,8 @@ https://github.com/akash-panthri/projects_overview/assets/150880382/827d1b54-6b4
 
 
 <a href="https://github.com/akash-panthri/button_ripple_effect" >Visit Repo</a>
+
+
+https://github.com/akash-panthri/projects_overview/assets/150880382/71636b40-bfb7-4864-a3ca-94aa1289b883
+
+<a href="https://github.com/akash-panthri/content_placeholder" >Visit Repo</a>
