@@ -78,3 +78,8 @@ https://github.com/akash-panthri/projects_overview/assets/150880382/7bf0e1a0-2c7
 https://github.com/akash-panthri/projects_overview/assets/150880382/37834525-22db-4ce9-b689-9068c492ce6d
 
 <a href="https://github.com/akash-panthri/custom_range_slider" >Visit Repo</a>
+
+
+https://github.com/akash-panthri/projects_overview/assets/150880382/b5ae1b98-0baa-40c7-a007-5396474a97d8
+
+<a href="https://github.com/akash-panthri/dad_jokes" >Visit Repo</a>
