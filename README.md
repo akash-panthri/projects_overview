@@ -73,3 +73,8 @@ https://github.com/akash-panthri/projects_overview/assets/150880382/71636b40-bfb
 https://github.com/akash-panthri/projects_overview/assets/150880382/7bf0e1a0-2c78-42a4-b625-948326db1c44
 
 <a href="https://github.com/akash-panthri/cup_vapor_animation" >Visit Repo</a>
+
+
+https://github.com/akash-panthri/projects_overview/assets/150880382/37834525-22db-4ce9-b689-9068c492ce6d
+
+<a href="https://github.com/akash-panthri/custom_range_slider" >Visit Repo</a>
