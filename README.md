@@ -83,3 +83,8 @@ https://github.com/akash-panthri/projects_overview/assets/150880382/37834525-22d
 https://github.com/akash-panthri/projects_overview/assets/150880382/b5ae1b98-0baa-40c7-a007-5396474a97d8
 
 <a href="https://github.com/akash-panthri/dad_jokes" >Visit Repo</a>
+
+
+https://github.com/akash-panthri/projects_overview/assets/150880382/435da192-8589-41ce-852f-0039f792dd09
+
+<a href="https://github.com/akash-panthri/different_css" >Visit Repo</a>
