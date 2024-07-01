@@ -93,3 +93,8 @@ https://github.com/akash-panthri/projects_overview/assets/150880382/435da192-858
 https://github.com/akash-panthri/projects_overview/assets/150880382/a1669af7-8d73-46af-a808-50e5def4040f
 
 <a href="https://github.com/akash-panthri/double_heart_click" >Visit Repo</a>
+
+
+https://github.com/akash-panthri/projects_overview/assets/150880382/e1748c35-0159-4951-b9b9-de9522a5fcf8
+
+<a href="https://github.com/akash-panthri/double_vertical_slider" >Visit Repo</a>
