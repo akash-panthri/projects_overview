@@ -124,3 +124,8 @@ https://github.com/akash-panthri/projects_overview/assets/150880382/7a6467ef-9a9
 https://github.com/user-attachments/assets/636f0287-0fc6-4fd5-af49-8cd2417a1080
 
 <a href="https://github.com/akash-panthri/expand_on_hover_effect" >Visit Repo</a>
+
+
+https://github.com/user-attachments/assets/93ba13b2-b7a2-4d9d-b3d3-64b341bb76e9
+
+<a href="https://github.com/akash-panthri/ExpaningCard" >Visit Repo</a>
