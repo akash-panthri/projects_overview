@@ -119,3 +119,8 @@ https://github.com/akash-panthri/projects_overview/assets/150880382/12441b7a-6cc
 https://github.com/akash-panthri/projects_overview/assets/150880382/7a6467ef-9a92-4161-8af4-c246cea3133d
 
 <a href="https://github.com/akash-panthri/event_keycode" >Visit Repo</a>
+
+
+https://github.com/user-attachments/assets/636f0287-0fc6-4fd5-af49-8cd2417a1080
+
+<a href="https://github.com/akash-panthri/expand_on_hover_effect" >Visit Repo</a>
