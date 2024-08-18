@@ -139,3 +139,8 @@ https://github.com/user-attachments/assets/445b98c3-c212-47b9-9226-3780d7e89213
 https://github.com/user-attachments/assets/a29d1188-33b2-463f-9e94-792ce2b25842
 
 <a href="https://github.com/akash-panthri/feedback_ui" >Visit Repo</a>
+
+
+https://github.com/user-attachments/assets/03c3b4d8-1789-4014-abdd-ab6246dd00d8
+
+<a href="https://github.com/akash-panthri/flip_loading_animation" >Visit Repo</a>
