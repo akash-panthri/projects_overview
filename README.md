@@ -144,3 +144,8 @@ https://github.com/user-attachments/assets/a29d1188-33b2-463f-9e94-792ce2b25842
 https://github.com/user-attachments/assets/03c3b4d8-1789-4014-abdd-ab6246dd00d8
 
 <a href="https://github.com/akash-panthri/flip_loading_animation" >Visit Repo</a>
+
+
+https://github.com/user-attachments/assets/fbb3e70f-3661-4500-a221-f9fd7362e2b6
+
+<a href="https://github.com/akash-panthri/form-styling" >Visit Repo</a>
