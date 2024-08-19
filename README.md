@@ -154,3 +154,8 @@ https://github.com/user-attachments/assets/fbb3e70f-3661-4500-a221-f9fd7362e2b6
 https://github.com/user-attachments/assets/2e1f3c02-fb39-4388-9f8f-fbdb7197bd07
 
 <a href="https://github.com/akash-panthri/github_profiles" >Visit Repo</a>
+
+
+https://github.com/user-attachments/assets/6ef21bcf-bb70-42c5-af43-44a13cf7b26c
+
+<a href="https://github.com/akash-panthri/Hidden_search" >Visit Repo</a>
