@@ -149,3 +149,8 @@ https://github.com/user-attachments/assets/03c3b4d8-1789-4014-abdd-ab6246dd00d8
 https://github.com/user-attachments/assets/fbb3e70f-3661-4500-a221-f9fd7362e2b6
 
 <a href="https://github.com/akash-panthri/form-styling" >Visit Repo</a>
+
+
+https://github.com/user-attachments/assets/2e1f3c02-fb39-4388-9f8f-fbdb7197bd07
+
+<a href="https://github.com/akash-panthri/github_profiles" >Visit Repo</a>
