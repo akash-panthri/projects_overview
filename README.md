@@ -174,3 +174,8 @@ https://github.com/user-attachments/assets/d011644d-d6d2-4308-bf33-68e7db3cc7b0
 https://github.com/user-attachments/assets/7ec56d18-c703-4ea1-920a-63e562d298e7
 
 <a href="https://github.com/akash-panthri/I_am_not_robot" >Visit Repo</a>
+
+
+https://github.com/user-attachments/assets/4f2d8354-484e-4610-8374-9699c9887720
+
+<a href="https://github.com/akash-panthri/image_carasoul" >Visit Repo</a>
