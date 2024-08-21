@@ -189,3 +189,9 @@ https://github.com/user-attachments/assets/af1c1ca4-36b6-44e9-b889-19630c23d989
 https://github.com/user-attachments/assets/48cf68de-eb6e-421b-a686-6ae45a282be5
 
 <a href="https://github.com/akash-panthri/insect_catch_game" >Visit Repo</a>
+
+
+https://github.com/user-attachments/assets/3a585efd-8100-4db2-8ab6-89fae3ea34d2
+
+<a href="https://github.com/akash-panthri/kinetic_css_loader" >Visit Repo</a>
+
