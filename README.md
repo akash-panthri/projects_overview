@@ -184,3 +184,8 @@ https://github.com/user-attachments/assets/4f2d8354-484e-4610-8374-9699c9887720
 https://github.com/user-attachments/assets/af1c1ca4-36b6-44e9-b889-19630c23d989
 
 <a href="https://github.com/akash-panthri/increment_counter" >Visit Repo</a>
+
+
+https://github.com/user-attachments/assets/48cf68de-eb6e-421b-a686-6ae45a282be5
+
+<a href="https://github.com/akash-panthri/insect_catch_game" >Visit Repo</a>
