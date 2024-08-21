@@ -179,3 +179,8 @@ https://github.com/user-attachments/assets/7ec56d18-c703-4ea1-920a-63e562d298e7
 https://github.com/user-attachments/assets/4f2d8354-484e-4610-8374-9699c9887720
 
 <a href="https://github.com/akash-panthri/image_carasoul" >Visit Repo</a>
+
+
+https://github.com/user-attachments/assets/af1c1ca4-36b6-44e9-b889-19630c23d989
+
+<a href="https://github.com/akash-panthri/increment_counter" >Visit Repo</a>
