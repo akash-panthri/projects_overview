@@ -195,3 +195,7 @@ https://github.com/user-attachments/assets/3a585efd-8100-4db2-8ab6-89fae3ea34d2
 
 <a href="https://github.com/akash-panthri/kinetic_css_loader" >Visit Repo</a>
 
+
+https://github.com/user-attachments/assets/b2a89e07-11c0-4b82-bb27-9dca8aa92ab6
+
+<a href="https://github.com/akash-panthri/live_user_effect" >Visit Repo</a>
