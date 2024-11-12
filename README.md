@@ -205,3 +205,9 @@ https://github.com/user-attachments/assets/c3d1e0d7-f777-4902-bb05-879ddb648f75
 
 <a href="https://github.com/akash-panthri/loader_animation" >Visit Repo</a>
 
+
+https://github.com/user-attachments/assets/49841974-81a8-4079-9e04-467fb93e285d
+
+<a href="https://github.com/akash-panthri/mobile_navigaton" >Visit Repo</a>
+
+
