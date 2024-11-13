@@ -215,6 +215,9 @@ https://github.com/user-attachments/assets/daf0860a-a894-4bd0-9a0a-bda7ea8b6986
 
 <a href="https://github.com/akash-panthri/movie_app" >Visit Repo</a>
 
+https://github.com/user-attachments/assets/21ad94f9-a3a6-4a10-92d1-89120732aa7a
+
+<a href="https://github.com/akash-panthri/moving_block_animation" >Visit Repo</a>
 
 
 
