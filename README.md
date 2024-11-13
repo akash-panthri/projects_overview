@@ -211,3 +211,16 @@ https://github.com/user-attachments/assets/49841974-81a8-4079-9e04-467fb93e285d
 <a href="https://github.com/akash-panthri/mobile_navigaton" >Visit Repo</a>
 
 
+https://github.com/user-attachments/assets/daf0860a-a894-4bd0-9a0a-bda7ea8b6986
+
+<a href="https://github.com/akash-panthri/movie_app" >Visit Repo</a>
+
+
+
+
+
+
+
+
+
+
