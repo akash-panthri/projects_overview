@@ -225,6 +225,10 @@ https://github.com/user-attachments/assets/cb3a9d45-6c1d-4c8a-894e-d128ca3706f0
 <a href="https://github.com/akash-panthri/neon_transition" >Visit Repo</a>
 
 
+https://github.com/user-attachments/assets/b5510d97-20ca-4b44-a68f-4aa90aa61ed1
+
+<a href="https://github.com/akash-panthri/netflix_navigation" >Visit Repo</a>
+
 
 
 
