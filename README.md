@@ -230,6 +230,10 @@ https://github.com/user-attachments/assets/b5510d97-20ca-4b44-a68f-4aa90aa61ed1
 <a href="https://github.com/akash-panthri/netflix_navigation" >Visit Repo</a>
 
 
+https://github.com/user-attachments/assets/d8f184fa-aaac-4bf1-9ac8-87d9944db4e6
+
+<a href="https://github.com/akash-panthri/note_app" >Visit Repo</a>
+
 
 
 
