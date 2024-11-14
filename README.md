@@ -235,6 +235,27 @@ https://github.com/user-attachments/assets/d8f184fa-aaac-4bf1-9ac8-87d9944db4e6
 <a href="https://github.com/akash-panthri/note_app" >Visit Repo</a>
 
 
+https://github.com/user-attachments/assets/3cbe91e6-0380-4c08-a09b-beef74b3596e
+
+<a href="https://github.com/akash-panthri/simple_parallax_website_effect" >Visit Repo</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
