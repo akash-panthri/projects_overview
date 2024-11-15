@@ -240,6 +240,10 @@ https://github.com/user-attachments/assets/3cbe91e6-0380-4c08-a09b-beef74b3596e
 <a href="https://github.com/akash-panthri/simple_parallax_website_effect" >Visit Repo</a>
 
 
+https://github.com/user-attachments/assets/5e9d79cd-2acd-4d4c-9fa1-e3eed8e1f4c8
+
+<a href="https://github.com/akash-panthri/password_generator" >Visit Repo</a>
+
 
 
 
