@@ -250,6 +250,11 @@ https://github.com/user-attachments/assets/dd52b533-6bbf-4c3c-a4a9-f2d036912362
 <a href="https://github.com/akash-panthri/password_strength" >Visit Repo</a>
 
 
+https://github.com/user-attachments/assets/97cfbb17-975c-461a-8d40-fa00b04a07c6
+
+<a href="https://github.com/akash-panthri/pokedex" >Visit Repo</a>
+
+
 
 
 
