@@ -260,6 +260,11 @@ https://github.com/user-attachments/assets/bd57d480-5f02-4061-8c77-844a19a8f97a
 <a href="https://github.com/akash-panthri/Progress_Steps" >Visit Repo</a>
 
 
+https://github.com/user-attachments/assets/6c810e23-8d87-4f05-91a5-29d33748495a
+
+<a href="https://github.com/akash-panthri/quiz_app" >Visit Repo</a>
+
+
 
 
 
