@@ -6,6 +6,11 @@ https://github.com/akash-panthri/projects_overview/assets/150880382/587b3291-d5a
 
 
 
+https://github.com/user-attachments/assets/c8602a1a-135a-4da7-b1c7-a504a700c3fd
+
+<a href="https://github.com/akash-panthri/3d_web" >Visit Repo</a>
+
+
 https://github.com/akash-panthri/projects_overview/assets/150880382/99d133ac-312a-4562-8704-ba9f0ef36ee3
 
 <a href="https://github.com/akash-panthri/animated_countdown" >Visit Repo</a>
@@ -272,19 +277,101 @@ https://github.com/user-attachments/assets/fe3cab37-88c6-4ae3-a2ff-d2fdb0e9685c
 
 
 
+https://github.com/user-attachments/assets/7f426de1-877c-4a4d-8e46-4a12647add60
+
+<a href="https://github.com/akash-panthri/random_image_feed" >Visit Repo</a>
 
 
 
 
+https://github.com/user-attachments/assets/f8ea79ce-f12a-4df7-8a53-7416c44eeaa0
+
+<a href="https://github.com/akash-panthri/Rotating_Navigation" >Visit Repo</a>
 
 
 
 
+https://github.com/user-attachments/assets/d56e8f62-bbed-401f-8cfc-b9b8ee6f563a
+
+<a href="https://github.com/akash-panthri/scroll_animation" >Visit Repo</a>
+
+https://github.com/user-attachments/assets/ef624ee7-6560-4307-9a68-137668d51940
+
+<a href="https://github.com/akash-panthri/simple_calculator" >Visit Repo</a>
+
+
+
+https://github.com/user-attachments/assets/4b39888f-7a36-496f-bf36-c96e6ea10e97
+
+<a href="https://github.com/akash-panthri/split_landing_page" >Visit Repo</a>
+
+https://github.com/user-attachments/assets/a50457ee-0177-4db5-9f95-4798ad288cf5
+
+<a href="https://github.com/akash-panthri/sticky_nav" >Visit Repo</a>
 
 
 
 
+https://github.com/user-attachments/assets/11e36605-32bb-489b-88da-e9cc9f165256
 
+<a href="https://github.com/akash-panthri/stopwatch_lap_timer" >Visit Repo</a>
+
+
+
+
+https://github.com/user-attachments/assets/d9737dab-6667-4afc-9c99-61ffcbe45541
+
+<a href="https://github.com/akash-panthri/swiper" >Visit Repo</a>
+
+
+
+https://github.com/user-attachments/assets/69171922-9cf5-457b-8ec4-90ff412bc94d
+
+<a href="https://github.com/akash-panthri/testomonial_box_switch" >Visit Repo</a>
+
+
+
+
+https://github.com/user-attachments/assets/7b707504-3666-41fb-a981-ce2cb3d994fe
+
+<a href="https://github.com/akash-panthri/typewriter_text_animation_effect" >Visit Repo</a>
+
+
+
+https://github.com/user-attachments/assets/1076620d-48c0-44ad-b816-17cc7405b605
+
+<a href="https://github.com/akash-panthri/theme_clock" >Visit Repo</a>
+
+
+
+
+https://github.com/user-attachments/assets/3c4e3b32-edbf-4def-9b4f-f785b808ce49
+
+<a href="https://github.com/akash-panthri/toast_notification" >Visit Repo</a>
+
+
+
+
+https://github.com/user-attachments/assets/f3c4db25-2cb3-4f33-87a4-13780ee41f50
+
+<a href="https://github.com/akash-panthri/ToDoList" >Visit Repo</a>
+
+https://github.com/user-attachments/assets/84180f56-89d2-4ddf-b9a5-018e98646abb
+
+<a href="https://github.com/akash-panthri/verify_account" >Visit Repo</a>
+
+
+
+
+https://github.com/user-attachments/assets/a83f68e4-a573-4df3-89e5-6db2cae45eea
+
+<a href="https://github.com/akash-panthri/water_wave_effect" >Visit Repo</a>
+
+
+
+https://github.com/user-attachments/assets/031528c8-fe82-4696-a69a-5700b6062278
+
+<a href="https://github.com/akash-panthri/zoomproduct" >Visit Repo</a>
 
 
 
